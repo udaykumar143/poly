@@ -1,0 +1,51 @@
+.navbar-custom {
+  background-color: #c6e7ff;
+  padding-bottom: 0;
+}
+
+.navbar-brand-custom {
+  color: #ffddae !important;
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+.nav-link-custom {
+  color: white !important;
+  margin-right: 15px;
+  transition: color 0.3s ease;
+}
+
+.nav-link-custom:hover {
+  color: #ff6600 !important;
+}
+
+.dropdown-item-custom {
+  color: #333 !important;
+  background-color: #f8f9fa !important;
+}
+
+.dropdown-item-custom:hover {
+  background-color: #ff6600 !important;
+  color: white !important;
+}
+.navbar-custom {
+  padding-bottom: 0;
+}
+
+.categories-section {
+  padding: 10px 0;
+  border-top: 1px solid #e0e0e0;
+  background-color: #f8f9fa;
+  width: 100%;
+  text-align: center;
+}
+
+.category-link {
+  color: #007bff !important;
+  font-size: 0.9em;
+  padding: 5px 10px;
+}
+
+.category-link:hover {
+  color: #0056b3 !important;
+}
